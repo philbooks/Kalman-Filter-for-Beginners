@@ -20,12 +20,12 @@ end
 dt = 0.02;
 t  = 0:dt:Nsamples*dt-dt;
 
-%figure
-%hold on
-%grid
+figure
+hold on
+grid
 plot(t, Xsaved, '-')
-%plot(t, Zsaved, 'r:.')
-%legend('Adaptive LPF', 'Measurements')
+plot(t, Zsaved, 'r:.')
+legend('Adaptive LPF', 'Measurements')
 
 figure
 hold on
