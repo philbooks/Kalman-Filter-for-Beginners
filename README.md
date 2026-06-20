@@ -41,7 +41,7 @@ has been verified on **MATLAB R2022b** and **GNU Octave 11.1.0**.
 
 - **Title:** Kalman Filter for Beginners (2nd Edition)
 - **Author:** Phil Kim
-- **Buy:** _add your store links here (Amazon / YES24 / Kyobo / Aladin)_
+- **Buy:** [_Amazon_](https://a.co/d/0dfgmoj1)
 
 ## License
 
